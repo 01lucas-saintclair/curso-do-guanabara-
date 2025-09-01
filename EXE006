@@ -1,0 +1,8 @@
+print('digite uma numero')
+n = int(input())
+d = n*2
+t = n*3
+r = n**0.5
+print('o dobro de {} e {}'.format(n, d))
+print('o triplo de {} e {}'.format(n, t))
+print('a raiz quadrada de {} e {}'.format(n, r))
