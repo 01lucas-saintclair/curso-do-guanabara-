@@ -1,0 +1,13 @@
+metros = float(input("Digite a quantidade em metros: "))
+quilometro = metros / 1000
+hectometro = metros / 100
+decametro = metros / 10
+decimetro = metros * 10
+centimetro = metros * 100
+milimetro = metros * 1000
+print(quilometro, 'km')
+print(hectometro, 'hm')
+print(decametro, 'dam')
+print(decimetro, 'dm')
+print(centimetro, 'cm')
+print(milimetro, 'mm')
